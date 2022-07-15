@@ -1,1 +1,2 @@
-127.0.0.1 rosszlanyok.hu
+0.0.0.0 rosszlanyok.hu
+0.0.0.0 s0.2mdn.net
